@@ -1,3 +1,4 @@
+#include "prompt.hpp"
 #include <iostream>
 
 void promptUser(char *option)
